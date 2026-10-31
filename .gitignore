@@ -1,0 +1,25 @@
+# Intermediates
+*.obj
+*.res
+*.pdb
+*.ilk
+*.exp
+*.lib
+
+# Release
+/release/
+
+# Tools
+/source/tools/
+
+# Local dev
+scripts/local/
+
+# IDE & OS
+.vs/
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
+
