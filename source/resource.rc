@@ -1,0 +1,3 @@
+// resource.rc
+// Embed UAC manifest so Windows auto-prompts for elevation.
+1 RT_MANIFEST "app.manifest"
